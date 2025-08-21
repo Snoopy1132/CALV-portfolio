@@ -52,7 +52,7 @@ export const About = () => {
                         <h3 className="text-xl font-bold mb-4">Education</h3>
                         <ul className="list-disc list-inside text-gray-300 space-y-2">
                             <li>
-                                <strong>B.S. in Information Technology</strong> - Central Luzon State University (2020-2025)
+                                <strong>B.S. in Information Technology major in System Development</strong> - Central Luzon State University (2020-2025)
                             </li>
                             <li>
                                 Relevant CourseWork: Data Structures, Database Management, Web Development, UI/UX Designer...
@@ -64,7 +64,8 @@ export const About = () => {
                         <div className="space-y-4 text-gray-300">
                             <div>
                                 <h4 className="font-semibold">Full-Stack Web Developer</h4>
-                                <p>Developed and maintained services</p>
+                                <p>Central Luzon State University - Management Inforamtion System Office</p>
+                                <p>Developed and maintained information system of the Central Luzon State Universtiy</p>
                             </div>
 
                              <div>
@@ -73,7 +74,7 @@ export const About = () => {
                             </div>
                         </div>
                 </div>
-            </div>
+            </div>  
         </div>
         </RevealOnScroll>
     </section>
